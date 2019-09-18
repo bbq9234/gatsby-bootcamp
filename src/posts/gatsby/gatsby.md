@@ -5,6 +5,8 @@ date: "2019-09-17"
 
 I just launched a new bootcamp!
 
+![Gatsby_Banner](./Gatsby-JS-min.jpg)
+
 ## Topics Covered
 
 1. Gatsby
