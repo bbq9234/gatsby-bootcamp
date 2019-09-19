@@ -11,6 +11,7 @@ module.exports = {
     author: `bbq923`
   },
   plugins: [
+    `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-contentful`,
       options: {
